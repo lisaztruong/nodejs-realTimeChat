@@ -1,0 +1,24 @@
+{
+  "name": "realtimewebchat",
+  "version": "1.0.0",
+  "description": "- NodeJs, Socket.io, ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaztruong/nodejs-realTimeChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaztruong/nodejs-realTimeChat/issues"
+  },
+  "homepage": "https://github.com/lisaztruong/nodejs-realTimeChat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "socket.io": "^1.7.3"
+  }
+}
